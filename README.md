@@ -1,2 +1,4 @@
-# -Text-to-Speech-Reader-Faster
-This Python program uses gTTS and Pygame to read aloud any selected text via left mouse clicks. It removes non-alphabetic characters and waits for audio to finish playing. Ideal for those who prefer listening to text. 
+# Faster version of previous one 
+only diffrence is now you have to press b after hovering over the text you want to read (left button clicked)
+<br>
+`pip install -r requirements.txt `
