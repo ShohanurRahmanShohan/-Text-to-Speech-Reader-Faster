@@ -1,0 +1,5 @@
+Pyperclip==1.8.2
+pygame==2.1.1
+keyboard==0.13.5
+pyttsx3==2.90
+gTTS==2.2.3
